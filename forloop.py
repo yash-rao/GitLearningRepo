@@ -1,2 +1,2 @@
-for c in yash:
+for c in "yash":
     print(c)
